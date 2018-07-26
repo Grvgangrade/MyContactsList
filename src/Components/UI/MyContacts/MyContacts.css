@@ -1,0 +1,32 @@
+.Order {
+    width: 80%;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-top: 45px;
+}
+
+/*.edit {
+    display:'block';
+    width:15px;
+    float:right;
+    margin: 7px;
+    cursor: pointer;
+}
+
+.edit:hover {
+    color: red;
+    display:'block';
+    width:15px;
+    float:right;
+    margin: 7px;
+}
+
+.delete {
+    display:'block';
+    width:15px;
+    float:right;
+    margin:7px;
+    cursor: pointer;
+}*/
